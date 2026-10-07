@@ -26,6 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
 Ejemplos incluidos
 Renderizar estudiantes y agregar nuevos:
 
+
 Un formulario para agregar estudiantes con campos como nombre, edad, email y curso.
 Los estudiantes se muestran dinámicamente en la página.
 Filtro único por email:
