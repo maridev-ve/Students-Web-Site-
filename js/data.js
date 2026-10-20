@@ -10,7 +10,7 @@ export const students = [{
     name : "Alvaro Lopez",
     age: 22,
     email: "Alvaro@gmail.com",
-    course: "Fron-end con AI 2026",
+    course: "Frontend con AI 2026",
     
 },{
     id: 3,
