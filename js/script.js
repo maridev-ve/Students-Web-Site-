@@ -73,15 +73,9 @@ function renderStudents(list) {
                 applyFilters()
             })
         })
-
-
     }
     );
-
-
 }
-
-
 //----------------------------------filtros combinados (edad + curso + email)---------------------------------------------------
 
 const ageMin = document.getElementById("ageMin")
